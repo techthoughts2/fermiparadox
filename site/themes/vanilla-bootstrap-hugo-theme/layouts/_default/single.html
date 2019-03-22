@@ -1,0 +1,9 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+{{ if .Params.toc }}
+{{ .TableOfContents | replaceRE "<nav([^>]*)>\\s*<ul>\\s*<li>([\\s\\S]+)</li>\\s*</ul>\\s*</nav>" "<nav$1>$2</nav>" | safeHTML }}
+{{ end }}
+{{ .Content }}
+
+{{ end }}
