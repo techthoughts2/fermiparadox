@@ -2,7 +2,7 @@ baseURL: https://fermiparadox.info/
 languageCode: en-us
 title: Fermi Paradox Theories
 theme: vanilla-bootstrap-hugo-theme
-googleAnalytics: UA-123456789-1
+googleAnalytics: UA-18514274-6
 
 # Uncomment below to enable syntax highlighting
 # pygmentsCodefences: true
