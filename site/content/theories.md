@@ -1,6 +1,6 @@
 ---
 title: Theories
-draft: true
+draft: false
 toc: true
 date: "2019-03-22"
 ---
