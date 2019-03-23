@@ -1,18 +1,21 @@
 ---
 title: "About"
-draft: true
+draft: false
 toc: false
 date: "2019-03-22"
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+One day I had a random idea that seemed like a solid explanation to the Fermi paradox.
 
-It makes use of a variety of open source projects including:
+I thought to myself, *I should write this down*.
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+But I didn't.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+...I can't remember anything about that idea.
+
+I felt pretty down about it so I decided to create this site to collect as many Fermi paradox theories as possible.
+
+---
+There are some minor costs associated with running this site. Any [contribution](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2GGXV9Q3VW22Q&source=url) you are comfortable making is greatly appreciated.
+
+---

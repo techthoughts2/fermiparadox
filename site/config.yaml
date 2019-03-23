@@ -1,6 +1,6 @@
 baseURL: https://fermiparadox.info/
 languageCode: en-us
-title: Vanilla
+title: Fermi Paradox Theories
 theme: vanilla-bootstrap-hugo-theme
 googleAnalytics: UA-123456789-1
 
@@ -43,5 +43,5 @@ params:
   containerMaxWidth: 700px
   dateFormat: Jan 2, 2006
   homeText: Welcome to the Vanilla theme demo. Have a look around. Maybe even eat some ice cream.
-  footerText: Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)
+  footerText: Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme). Deployed with [AWS Amplify](https://aws.amazon.com/amplify/console/).
   hideFooter: false
