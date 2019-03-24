@@ -14,3 +14,8 @@ Even with the vastness of space, the galaxy is old enough for many of these civi
 {{% bootstrap-blockquote author="Enrico Fermi" %}}
 *So? Where is everybody?*
 {{% /bootstrap-blockquote %}}
+
+---
+[N = R* • fp • ne • fl • fi • fc • L](https://en.wikipedia.org/wiki/Drake_equation)
+
+---

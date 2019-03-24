@@ -16,4 +16,4 @@ Create a GitHub account and submit your theory as a [New Theory](https://github.
 Two options:
 
   1. Submit an issue as shown above
-  2. Review the Contributing guidelines and then fork and submit a pull request for the [fermiparadox repo](https://github.com/techthoughts2/fermiparadox).
+  2. Review the [Contributing guidelines](https://github.com/techthoughts2/fermiparadox/blob/master/.github/CONTRIBUTING.md) and then fork and submit a pull request for the [fermiparadox repo](https://github.com/techthoughts2/fermiparadox).
