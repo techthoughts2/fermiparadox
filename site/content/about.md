@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Fermi Paradox Theory Project"
 draft: false
 toc: false
 date: "2019-03-22"

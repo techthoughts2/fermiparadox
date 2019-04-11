@@ -1,5 +1,5 @@
 ---
-title: Theories
+title: Fermi Paradox Theories
 draft: false
 toc: true
 date: "2019-03-22"
@@ -99,6 +99,7 @@ It has been suggested that some advanced beings may divest themselves of physica
 {{% /bootstrap-blockquote %}}
 
 * It may be a course of natural evolution that advanced societies develop the capability to build massive artificial virtual environments. These environments could be powered through a variety of means for incredibly long periods. Armed with this technology, most civilizations elect to exist within their created world, rather than continue to existing in the physical one.
+  * A [Matrioshka brain](https://en.wikipedia.org/wiki/Matrioshka_brain) might be used to achieve this.
 
 ## We're Isolated Intentionally
 
@@ -107,3 +108,11 @@ It has been suggested that some advanced beings may divest themselves of physica
 {{% bootstrap-blockquote author="Baxter, Stephen, 2001, The Planetarium Hypothesis: A Resolution of the Fermi Paradox, Journal of the British Interplanetary Society, Vol. 54" %}}
 Beyond a certain distance, the perceived universe is a simulated reality. This illusion, created by a [Type III civilization](https://en.wikipedia.org/wiki/Kardashev_scale) capable of manipulating matter and energy on galactic scales, is intended to keep us in perpetual isolation. Our loneliness is engineered.
 {{% /bootstrap-blockquote %}}
+
+## Advanced civilizations are purposefully eliminated
+
+{{% bootstrap-blockquote author="?" %}}
+There is an active force within the cosmos that actively seeks out and eliminates other civilizations.
+{{% /bootstrap-blockquote %}}
+
+* A Type 3 civilization actively monitors for, and seeks to eliminate emerging civilizations.
